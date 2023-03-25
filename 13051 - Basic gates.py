@@ -75,4 +75,4 @@ xnor_gate(0,0)
 xnor_gate(0,1)
 xnor_gate(1,0)
 xnor_gate(1,1)
-#Jaineel Patel
+
